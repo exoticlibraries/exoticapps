@@ -33,3 +33,4 @@
 
 # IDE Folders
 *.vscode/
+*build/

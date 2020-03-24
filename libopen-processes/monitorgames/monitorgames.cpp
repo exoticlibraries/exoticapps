@@ -7,7 +7,7 @@
 
 #define USE_HACKY_PROCESSES_MONITOR
 
-#include "../libopen-processes/src/processes.cpp"
+#include <libopen/processes.h>
 #include <iostream>
 #include <pthread.h>
 #include <list>
