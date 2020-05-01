@@ -33,4 +33,14 @@
 
 # IDE Folders
 *.vscode/
+*.vs/
 *build/
+
+
+# Others
+*CMakeFiles/
+*.vcx*
+*.sln
+*CMakeCache*
+*.cmake
+*Makefile*
